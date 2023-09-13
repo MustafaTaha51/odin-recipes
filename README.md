@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project, which involves building a basic recipe website. Upon completion of this project, I will have demonstrated skills in adding text, headings, images and links (absolute and the other kind) to a website.
