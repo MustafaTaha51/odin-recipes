@@ -5,7 +5,7 @@
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 64px;
     color: coral;
     background-color: aquamarine;
 }
@@ -13,4 +13,29 @@ h1 {
 img {
     width: 500px;
     height: 100%;
+}
+
+li,
+h3 {
+    color: darkgoldenrod;
+}
+
+li {
+    font-family: 'Courier New', Courier, sans-serif;
+    font-weight: bolder;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    font-weight: 800;
+    background-color: mediumseagreen;
+}
+
+a {
+    font-size: 24px;
 }
