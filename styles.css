@@ -1,2 +1,11 @@
 /* styles.css */
 
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    color: coral;
+    background-color: aquamarine;
+}
