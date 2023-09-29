@@ -9,3 +9,8 @@ h1 {
     color: coral;
     background-color: aquamarine;
 }
+
+img {
+    width: 500px;
+    height: 100%;
+}
